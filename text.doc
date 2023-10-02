@@ -1,0 +1,54 @@
+css file 
+bootstarp 
+sass 
+scss 
+material ui 
+ant design 
+chakra ui 
+TAILWIND CSS 
+
+
+srp (single responsibility principle)
+resuable 
+maintainable
+testable 
+
+// custom hooks 
+
+
+chuncking
+code splitting 
+dynamic bundling 
+lazy loading 
+
+
+higher order componet is nothing but a funtion which takes a component as a input and returns a new component  which is a enhanced version  or extra features
+
+
+
+let Hoc =(<Component/>)=>{
+   
+   return (
+    <component/>
+   )
+
+}
+
+
+let Hoc=(Restaurantcard)=>{
+    return ()=>{
+
+    return (
+
+    )
+}
+}
+
+
+
+
+const sum=(compone)=>{
+    return a+b
+}
+
+let out=withVegLable(componet)
